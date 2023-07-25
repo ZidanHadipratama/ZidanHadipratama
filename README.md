@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zidan Hadipratama</h1>
-<h3 align="center">Computer Enthusiast | Web Development & Cybersecurity Journey | Diligent Learner</h3>
+<h1 align="left">Hi 👋, I'm Zidan Hadipratama</h1>
+<h3 align="left">Computer Enthusiast | Web Development & Cybersecurity Journey | Diligent Learner</h3>
 
 - 🌱 I’m currently learning **CompTIA A+, JavaScript, CyberSecurity.**
 
