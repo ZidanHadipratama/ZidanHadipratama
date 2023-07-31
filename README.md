@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Zidan Hadipratama</h1>
 <h3 align="left">Computer Enthusiast | Web Development & Cybersecurity Journey | Diligent Learner</h3>
-<br><br> 🔭 I’m currently working on <a href="https://github.com/AMPP-ITS/Project">AMPP-ITS Website</a> <br><br>    🌱 I’m currently learning CompTIA A+, JavaScript, CyberSecurity.<br><br>    💬 Ask me about Vue, C, and JavaScript.<br><br>    📫 You can reach me to <a href="mailto:zzzdn.hadi@gmail.com">zzzdn.hadi@gmail.com</a><br><br>
+<br><br> 🔭 I’m currently working on <a href="https://github.com/AMPP-ITS/Project">AMPP-ITS Website</a> <br><br>    🌱 I’m currently learning CompTIA A+, JavaScript, CyberSecurity.<br><br>    💬 Ask me about Vue, C, and JavaScript.<br><br>    📫 You can reach me to <a href="mailto:zzzdn.hadi@gmail.com">zzzdn.hadi@gmail.com</a> <br><br>
 
 
 ## 🌐 Socials:
