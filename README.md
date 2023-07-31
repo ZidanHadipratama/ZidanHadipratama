@@ -1,20 +1,20 @@
-# Zidan Hadipratama - Web Developer | Cybersecurity Enthusiast | Diligent Learner 😄
+# Hi👋 I'm Zidan Hadipratama - Web Developer | Cybersecurity Enthusiast | Diligent Learner 😄
 
-## Introduction
+## 😊 Introduction
 
 Hello, I'm Zidan Hadipratama, but you can call me Zidan. I'm a computer enthusiast with a passion for web development and cybersecurity. I enjoy learning new technologies and constantly expanding my knowledge in the field.
 
-### Current Project
+### 🚀 Current Project
 
-🔭 I’m currently working on [AMPP-ITS Website](https://github.com/AMPP-ITS/Project)
+I’m currently working on [AMPP-ITS Website](https://github.com/AMPP-ITS/Project)
 
-### Education
+### 🎓 Education
 
-🎓 I'm an undergraduate student at Sepuluh Nopember Institute of Technology, majoring in Information Technology.
+I'm an undergraduate student at Sepuluh Nopember Institute of Technology, majoring in Information Technology.
 
-### Points of Interest
+### ⭐ Points of Interest
 
-🌟 My main points of interest include:
+My main points of interest include:
 
 - Website Development: I'm passionate about creating user-friendly and visually appealing websites.
 - Cybersecurity: I'm fascinated by the ever-changing world of cybersecurity and enjoy learning about the latest threats and defenses.
