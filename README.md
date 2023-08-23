@@ -1,8 +1,8 @@
-# Hi👋 I'm Zidan Hadipratama - Web Developer | Cybersecurity Enthusiast | Diligent Learner 😄
+# Hi👋 I'm Zidan Hadipratama - Web Developer | Diligent Learner 😄
 
 ## 😊 Introduction
 
-Hello, I'm Zidan Hadipratama, but you can call me Zidan. I'm a computer enthusiast with a passion for web development and cybersecurity. I enjoy learning new technologies and constantly expanding my knowledge in the field.
+Hello, I'm Zidan Hadipratama, but you can call me Zidan. I'm a computer enthusiast with a passion for web development. I enjoy learning new technologies and constantly expanding my knowledge in the field.
 
 ### 🚀 Current Project
 
@@ -17,7 +17,6 @@ I'm an undergraduate student at Sepuluh Nopember Institute of Technology, majori
 My main points of interest include:
 
 - Website Development: I'm passionate about creating user-friendly and visually appealing websites.
-- Cybersecurity: I'm fascinated by the ever-changing world of cybersecurity and enjoy learning about the latest threats and defenses.
 - Business: I also have an interest in understanding the business side of technology and how it impacts the industry.
 
 ## 🌐 Socials
